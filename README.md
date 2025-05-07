@@ -19,15 +19,28 @@ Outside of tech, I’m into fitness (not a gym bro, promise), biking every Sunda
 
 **Web:**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=for-the-badge&logo=vercel&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white) ![tRPC](https://img.shields.io/badge/-tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-informational?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-informational?style=for-the-badge)
 
 **Mobile:**
 
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 **Backend:**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Currently Exploring:**
 
@@ -37,7 +50,8 @@ Outside of tech, I’m into fitness (not a gym bro, promise), biking every Sunda
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfryy&show_icons=true&theme=default) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfryy&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfryy&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfryy&layout=compact)
 
 ## 📫 Connect with Me
 
