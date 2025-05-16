@@ -27,11 +27,21 @@ Outside of tech, I’m into fitness (not a gym bro, promise), biking every Sunda
 ![React Query](https://img.shields.io/badge/-React%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-informational?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 **Mobile:**
 
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo)
+![Expo Router](https://img.shields.io/badge/-Expo%20Router-000000?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/-React%20Navigation-000000?style=for-the-badge&logo=react&logoColor=white)
+![NativeWind](https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native Testing Library](https://img.shields.io/badge/-RNTL-000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Maestro](https://img.shields.io/badge/-Maestro-4526F6?style=for-the-badge&logo=maestro&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![EAS](https://img.shields.io/badge/-EAS-4630EB?style=for-the-badge&logo=expo&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 **Backend:**
