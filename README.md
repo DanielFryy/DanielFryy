@@ -57,6 +57,7 @@ Outside of tech, I’m into fitness (not a gym bro, promise), biking every Sunda
 **Currently Exploring:**
 
 ![three.js](https://img.shields.io/badge/-three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 ---
 
