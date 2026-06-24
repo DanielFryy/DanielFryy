@@ -7,7 +7,7 @@
 ## 🚀 About Me
 Hey! I'm Daniel, a passionate Software Developer who loves to code and build things that improve my everyday life. I'm particularly focused on **web and app development**, and I specialize in the **React ecosystem**.
 
-I'm always tinkering with ideas — whether it's a tool to help me track progress or something just for fun. For example, I play *OGame* daily, so I created [og-tools.xyz](https://og-tools.xyz), a custom fleet and defense calculator to make my gameplay smoother.
+I'm always tinkering with ideas — whether it's a tool to help me track progress or something just for fun. For example, I play *OGame* daily, so I created [og-tools.xyz](https://og-tools-two.vercel.app/), a custom fleet and defense calculator to make my gameplay smoother.
 
 What I enjoy most about development is the **thinking**—breaking down problems and crafting smart solutions. I also enjoy writing technical content when I really know a topic inside out, and I'm open to mentoring when time allows.
 
